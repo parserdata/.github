@@ -14,7 +14,7 @@ Customers upload or stream documents such as reports, statements, and invoices, 
 
 ## What ParserData Does
 
-<img align="right" src="Parserdata.gif" alt="IDP" width="100%" />
+<img align="right" src="https://github.com/parserdata/.github/blob/main/Parserdata.gif" alt="IDP" width="100%" />
 
 ParserData handles the full document processing pipeline:
 
@@ -59,7 +59,7 @@ Instead, ParserData provides a **reliable, scalable, and schema-driven** way to 
 - ETL pipelines for accounting and finance teams
 - Workflow automation via APIs and integrations
 
-<img align="center" src="automation.png" alt="automation" width="100%" />
+<img align="center" src="https://github.com/parserdata/.github/blob/main/automation.png" alt="automation" width="100%" />
 
 ---
 
